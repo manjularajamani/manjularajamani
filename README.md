@@ -11,7 +11,13 @@
 
 - 💬 Ask me about **Docker, Vagrant, AWS(IAM,EC2,S3 bucket,Route53,Code{commit,pipeline,build,deploy} VPC)**
 
-# Blog posts
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/manjula-rajamani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r4jeshwar" height="30" width="40" /></a>
+</p>
+
+# Blog posts<h3 align="left">Connect with me:</h3>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
