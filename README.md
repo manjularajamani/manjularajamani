@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manjula" alt="manjula" /></a> </p>
 
-- 🔭 I’m currently working on **Jenkins, AWS**
+- 🔭 I’m currently working on **GCP, Kubernetes**
 
-- 🌱 I’m currently learning **GitHub Action**
+- 🌱 I’m currently learning **Kubernetes, GCP**
 
-- 👯 I’m Worked on few other open project **[Lufi](https://framagit.org/fiat-tux/hat-softwares/lufi), [Pyseccomp](https://github.com/manjularajamani/pyseccomp-playground)**
+- 👯 I’m Worked on few other open project **[Lufi](https://framagit.org/fiat-tux/hat-softwares/lufi), [Pyseccomp](https://github.com/manjularajamani/pyseccomp-playground), [hypertext-editor](https://github.com/manjularajamani/hypertext-editor), [FluxBB](https://github.com/manjularajamani/fluxbb-hetzner-deploy)**
 
-- 💬 Ask me about **Docker, Vagrant, AWS(IAM,EC2,S3 bucket,Route53,Code{commit,pipeline,build,deploy} VPC)**
+- 💬 Ask me about **Docker, Vagrant, AWS(IAM,EC2,S3 bucket,Route53,Code{commit,pipeline,build,deploy} VPC), Jenkins**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
