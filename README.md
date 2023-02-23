@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manjula" alt="manjula" /></a> </p>
 
-- 🔭 I’m currently working on **GCP, Kubernetes**
+- 🔭 I’m currently working on **Pulumi Python**
 
-- 🌱 I’m currently learning **Kubernetes, GCP**
+- 🌱 I’m currently learning **Pulumi Python**
 
-- 👯 I’m Worked on few other open project **[Lufi](https://framagit.org/fiat-tux/hat-softwares/lufi), [Pyseccomp](https://github.com/manjularajamani/pyseccomp-playground), [hypertext-editor](https://github.com/manjularajamani/hypertext-editor), [FluxBB](https://github.com/manjularajamani/fluxbb-hetzner-deploy)**
+- 👯 I’ve worked on a couple of other open-source projects **[Lufi](https://framagit.org/fiat-tux/hat-softwares/lufi), [Pyseccomp](https://github.com/manjularajamani/pyseccomp-playground), [hypertext-editor](https://github.com/manjularajamani/hypertext-editor), [FluxBB](https://github.com/manjularajamani/fluxbb-hetzner-deploy), [kanban-board](https://github.com/manjularajamani/kanban-board)**
 
 - 💬 Ask me about **Docker, Vagrant, AWS(IAM,EC2,S3 bucket,Route53,Code{commit,pipeline,build,deploy} VPC), Jenkins**
 
