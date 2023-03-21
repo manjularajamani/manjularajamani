@@ -19,6 +19,7 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Seccomp security profiles](https://dev.to/manjularajamani/seccomp-security-profiles-40m7)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
