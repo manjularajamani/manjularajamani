@@ -19,6 +19,7 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MicroBin on Fly.io](https://dev.to/manjularajamani/microbin-on-flyio-2nik)
 - [Seccomp security profiles](https://dev.to/manjularajamani/seccomp-security-profiles-40m7)
 <!-- BLOG-POST-LIST:END -->
 
