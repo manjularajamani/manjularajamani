@@ -1,6 +1,7 @@
 name: Update badges
 
 on:
+  push:
   schedule:
     - cron: '* * * * *'
   workflow_dispatch:
