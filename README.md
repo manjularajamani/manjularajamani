@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Manjula</h1>
-<<<<<<< HEAD
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjularajamani&label=Profile%20views&color=0a0a0a&style=flat" alt="manjularajamani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manjularajamani" alt="manjularajamani" /></a> </p>
@@ -22,7 +21,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjularajamani&show_icons=true&theme=dark&locale=en&layout=compact" alt="manjularajamani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjularajamani&show_icons=true&theme=dark&locale=en" alt="manjularajamani" /></p>
-=======
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjula&label=Profile%20views&color=0a0a0a&style=flat" alt="manjula" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manjula" alt="manjula" /></a> </p>
@@ -53,4 +52,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjula&show_icons=true&theme=dark&locale=en&layout=compact" alt="manjula" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjula&show_icons=true&theme=dark&locale=en" alt="manjula" /></p>
->>>>>>> 8ff12fc21b7c3d6f96157e246c519c095e3c9a5c
