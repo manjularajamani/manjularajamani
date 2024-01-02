@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **AWS**
 
-- 🌱 I’m currently learning **GCP, Kubernetes**
+- 🌱 I’m currently learning **Azure, Kubernetes**
 
 - 👯 I’ve worked on a couple of other open-source projects **[Lufi](https://framagit.org/fiat-tux/hat-softwares/lufi), [Pyseccomp](https://github.com/manjularajamani/pyseccomp-playground), [hypertext-editor](https://github.com/manjularajamani/hypertext-editor), [FluxBB](https://github.com/manjularajamani/fluxbb-hetzner-deploy), [kanban-board](https://github.com/manjularajamani/kanban-board)**
 
