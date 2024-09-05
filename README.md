@@ -23,6 +23,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [MicroBin on Fly.io](https://dev.to/ittrident/microbin-on-flyio-2nik)
 - [Seccomp security profiles](https://dev.to/manjularajamani/seccomp-security-profiles-40m7)
+- [Node-Red on Azure Container Instance](https://dev.to/ittrident/deploying-node-red-on-azure-container-instance-4n44)
 <!-- BLOG-POST-LIST:END -->
 
 ## Badges
