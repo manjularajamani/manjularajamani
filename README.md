@@ -21,9 +21,9 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Node-Red on Azure Container Instance](https://forem.com/ittrident/deploying-node-red-on-azure-container-instance-4n44)
-- [MicroBin on Fly.io](https://forem.com/ittrident/microbin-on-flyio-2nik)
-- [Seccomp security profiles](https://forem.com/manjularajamani/seccomp-security-profiles-40m7)
+- [Deploying Node-Red on Azure Container Instance](https://dev.to/ittrident/deploying-node-red-on-azure-container-instance-4n44)
+- [MicroBin on Fly.io](https://dev.to/ittrident/microbin-on-flyio-2nik)
+- [Seccomp security profiles](https://dev.to/manjularajamani/seccomp-security-profiles-40m7)
 <!-- BLOG-POST-LIST:END -->
 
 ## Badges
