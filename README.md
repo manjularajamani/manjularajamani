@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manjula" alt="manjula" /></a> </p>
 
-- 🔭 I’m currently working on **AWS**
+- 🔭 I’m currently working on **Salesforce**
 
-- 🌱 I’m currently learning **Azure, Kubernetes**
+- 🌱 I’m currently learning **AWS, Kubernetes**
 
 - 👯 I’ve worked on a couple of other open-source projects **[Lufi](https://framagit.org/fiat-tux/hat-softwares/lufi), [Pyseccomp](https://github.com/manjularajamani/pyseccomp-playground), [hypertext-editor](https://github.com/manjularajamani/hypertext-editor), [FluxBB](https://github.com/manjularajamani/fluxbb-hetzner-deploy), [kanban-board](https://github.com/manjularajamani/kanban-board)**
 
